@@ -1,0 +1,3 @@
+[submodule "diffusion-nbs"]
+	path = diffusion-nbs
+	url = https://github.com/abdksyed/diffusion-nbs.git
